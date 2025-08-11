@@ -30,6 +30,7 @@ void addSampleData();
 
 // Function
 void addSampleData() {
+
     productNames[0] = "Laptop";
     productCategories[0] = "Electronics";
     productQuantities[0] = 10;
@@ -53,4 +54,3 @@ int main() {
     // Add sample data
     addSampleData();
 }
-
