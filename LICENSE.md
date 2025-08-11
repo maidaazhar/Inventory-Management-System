@@ -6,7 +6,7 @@
 ```text
 MIT License
 
-Copyright (c) 2025 Maida Azhar, Gehna Rehman, Uswa Humayun, Khadija Awais
+Copyright (c) 2025 Maida Azhar
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
